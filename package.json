@@ -14,7 +14,7 @@
   "dependencies": {
     "aws-sdk": "^2.994.0",
     "dotenv": "^10.0.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-sharp": "^4.2.39",
     "got": "^11.8.2",
     "keyv": "^4.0.3"
